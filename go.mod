@@ -1,3 +1,3 @@
-module Go_Projects
+module myBlockchain
 
 go 1.22
