@@ -1,2 +1,3 @@
-# simple-Go-Blockchain
-Simple project for learning a Blockchain implementation using Go
+# Simple Blockchain implementation using Go
+Simple project for learning Blockchain implementation and Go at the same time
+
